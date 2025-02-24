@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Khushi
 
-<!--
-**khushi-sabarad/khushi-sabarad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Data related projects using Python
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Web Scraping to gather data from thr web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Bangalore, India
+
+I love to: ✈️Travel, 🎧Music, 🎾🎲 Games, 🎬Movies, 📚Novels
+
+***
+**Let's connect!**
+  - 👩‍💻 [Github](https://github.com/khushi-sabarad)
+  - 🤝 [LinkedIn](https://www.linkedin.com/in/khushi-sabarad/)
+  - ✉️ khushi.sabarad@gmail.com
+
+ 
